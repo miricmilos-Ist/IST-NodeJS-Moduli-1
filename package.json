@@ -1,0 +1,23 @@
+{
+  "name": "moji_moduli",
+  "version": "1.0.0",
+  "description": "Kalkulator modul za zadataki iz petog predavanja",
+  "main": "kalkulator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miricmilos-Ist/IST-NodeJS-Moduli-1.git"
+  },
+  "keywords": [
+    "moj",
+    "modul"
+  ],
+  "author": "milosmiric rt6917",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miricmilos-Ist/IST-NodeJS-Moduli-1/issues"
+  },
+  "homepage": "https://github.com/miricmilos-Ist/IST-NodeJS-Moduli-1#readme"
+}
